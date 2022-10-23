@@ -5,4 +5,5 @@ Incluem-se aqui os Tweet postados diretamente pelas contas dos candidatos Lula e
 Este repositório é parte de um projeto de pesquisa ainda em revisão, do programa de MBA em Análise de Dados e Analystics USP-Esalq. 
 A fim de facilitar a reprodutibilidadee fomenta novos trabalhos, o dataset construído é oferecido publicamente. 
 
-cbnfreitas@gmail.com , @cbnfreitas1
+Interessado em saber mais ou em alguma parceria científica? Fique a vontade para falar comigo: 
+E-mail: cbnfreitas@gmail.com , Twitter: @cbnfreitas1
